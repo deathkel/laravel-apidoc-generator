@@ -47,3 +47,15 @@ Before submitting a pull request:
 - **One pull request per feature** - If you want to do more than one thing, send multiple pull requests.
 
 **Happy coding**!
+
+## Code Review Guidelines
+
+When submitting a pull request, please follow these code review guidelines:
+
+1. **Create a Pull Request**: When you have completed a feature or bug fix, create a pull request (PR) to the main branch.
+2. **Assign Reviewers**: Assign at least one reviewer to your PR. Preferably, choose someone who is familiar with the codebase.
+3. **Review the Code**: The assigned reviewer(s) will review the code, checking for functionality, readability, and adherence to coding standards.
+4. **Address Feedback**: If the reviewer(s) request changes, address the feedback and update the PR.
+5. **Approval and Merge**: Once the reviewer(s) approve the PR, it can be merged into the main branch.
+
+By following these guidelines, we can ensure a smooth and effective code review process that helps maintain the quality of our codebase.
