@@ -46,6 +46,9 @@ $app->configure('apidoc');
 ## Documentation
 Check out the documentation at the [Beyond Code homepage](https://beyondco.de/docs/laravel-apidoc-generator/).
 
+## Code Review Process
+We have a code review process in place to ensure the quality and consistency of our codebase. Please refer to the [Code Review Guidelines](CODE_REVIEW.md) for more information.
+
 ### License
 
 The Laravel API Documentation Generator is free software licensed under the MIT license.
